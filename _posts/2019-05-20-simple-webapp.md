@@ -10,7 +10,6 @@ tags: [Open Source]
 class: post-template
 ---
 
-
 # A simple WebApp example
 
 ## Introduction
