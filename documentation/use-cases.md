@@ -42,7 +42,7 @@ WoTT uses mTLS which runs over the TCP layer. In essence, mTLS establishes a han
 
 Google Cloud Platform provides services that developers can use. Here we show you how to set up your WoTT Agent device and enroll it to your Google Cloud project to communicate with Google's services. Includes Google's MQTT example. 
 
-#### [A Simple WebApp](https://github.com/WoTTsecurity/agent/tree/master/docs/examples/simple-webapp)
+#### [A Simple WebApp]({{site.url}}/blog/tutorials/2019/05/20/simple-webapp)
 
 You will need 2 WoTT Agent devices: one acting as server, one as client. This example uses the concept of WoTT's cryptographic identity to verify devices and verify connection. We've included a very somple WebApp for the example, but the principle applies to any WebApp that you develop yourself- just ensure you do the correct setup as illustrated in the guide.
 
