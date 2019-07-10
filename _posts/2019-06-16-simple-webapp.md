@@ -2,8 +2,8 @@
 layout: post
 current: post
 cover:  image_0.png
-title: Using WoTT to secure conncections to a simple Python 3 WebApp
-date: 2019-05-20 17:00:00
+title: Using WoTT to secure connections to a simple Python 3 WebApp
+date: 2019-06-16 17:00:00
 category: tutorials
 author: Fiona McAllister
 tags: [Open Source]

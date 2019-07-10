@@ -3,7 +3,7 @@ layout: post
 current: post
 cover:  image_0.png
 title: Using WoTT to secure a connection with Google Core IoT
-date: 2019-05-18 17:00:00
+date: 2019-06-14 17:00:00
 category: tutorials
 author: Fiona McAllister
 tags: [Open Source]
@@ -11,6 +11,8 @@ class: post-template
 ---
 
 # Using WoTT with Google Core IoT
+
+## Introduction
 
 Before we get started, you will need to install the `gcloud` tool. This is used to interact with Google's services. You can find installation instructions [here](https://cloud.google.com/iot/docs/how-tos/getting-started). Follow the instructions for your specific distribution.
 
